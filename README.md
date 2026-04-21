@@ -5,6 +5,8 @@ This project is to evaluate the risks of natural disasters. Our sensitivity anal
 ## Repository Structure
 
 ## Raw Data
+`Links:`
+
 - [Maine_data](Maine.csv)
 - [Vermont_data](Vermont.csv)
 - [NRI_Hazard_Info](NRI_HazardInfo.csv)
@@ -40,7 +42,10 @@ The goals of this project were outlined with the use of a Gantt Chart. The link 
 ## Project Documentation
 `Links:`
 
-- [Annotated_Code_Document](CIVE202_Spring2026_Project4_Group11_ACD.xlsx)
+The project deliverables were planned and tracked using an engineering time sheet to ensure organized progress throughout the project.
 - [Time_Sheet](CIVE202_Spring2026_Project4_Group11_EngineeringTimeSheet.xlsx)
+
+Additional project documentation:
+- [Annotated_Code_Document](CIVE202_Spring2026_Project4_Group11_ACD.xlsx)
 - [Scope_of_Work](CIVE202_Spring2026_Project4_Group11_ScopeofWork.docx)
 - [Written_Report](CIVE202_Spring2026_Project4_Group11_WrittenReport.docx)
