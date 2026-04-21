@@ -8,7 +8,7 @@ This project is to evaluate the risks of natural disasters. Our sensitivity anal
 - [Maine_data]()
 - [Vermont_data]()
 - [NRI_Hazard_Info]()
-- [NRI_Metadata]()
+- [NRI_DataDictonary]()
 - [Notebook(Project_4_Code)]()
 
 ## Files Produced by Project 4 code
