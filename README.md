@@ -14,10 +14,6 @@ This project is to evaluate the risks of natural disasters. Our sensitivity anal
   
   `NRI_Table_CensusTracts file was also used in the code, but the file is too large to upload here.`
 
-## Files Produced by Project 4 code
-- [Maine_state_tracts]()
-- [Vermont_state_tracts]()
-
 ---
 ## User Guide
 
@@ -40,3 +36,8 @@ The goals of this project were outlined with the use of a Gantt Chart. The link 
 ---
 ## Project Documentation
 `Links:`
+
+- [Annotated_Code_Document]()
+- [Time_Sheet]()
+- [Scope_of_Work](CIVE202_Spring2026_Project4_Group11_ScopeofWork.docx)
+- [Written_Report]()
