@@ -10,7 +10,7 @@ This project is to evaluate the risks of natural disasters. Our sensitivity anal
 - [NRI_Hazard_Info](NRI_HazardInfo.csv)
 - [NRI_DataDictonary](NRIDataDictionary.csv)
 - [NRI_Metadata](NRI_metadata_December2025.pdf)
-- [Notebook(Project_4_Code)](CIVE202_Spring2026_Project4_Group11_PythonCode (1).ipynb)
+- [Notebook(Project_4_Code)](CIVE202_Spring2026_Project4_Group11_PythonCode(1).ipynb)
   
   `NRI_Table_CensusTracts file was also used in the code, but the file is too large to upload here.`
 
