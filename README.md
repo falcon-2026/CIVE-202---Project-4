@@ -35,7 +35,7 @@ This project is to evaluate the risks of natural disasters. Our sensitivity anal
 ## Project Goals
 The goals of this project were outlined with the use of a Gantt Chart. The link is here:
 
-- [Gantt_Chart]()
+- [Gantt_Chart](CIVE202_Spring2026_Project4_Group11_GanttChart.xlsx)
 
 ---
 ## Project Documentation
