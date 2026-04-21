@@ -7,11 +7,12 @@ This project is to evaluate the risks of natural disasters. Our sensitivity anal
 ## Raw Data
 - [Maine_data](Maine.csv)
 - [Vermont_data](Vermont.csv)
-- [NRI_Hazard_Info]()
-- [NRI_DataDictonary]()
-- [NRI_Metadata]()
-- [NRI_Census_Tracts]()
+- [NRI_Hazard_Info](NRI_HazardInfo.csv)
+- [NRI_DataDictonary](NRIDataDictionary.csv)
+- [NRI_Metadata](NRI_metadata_December2025.pdf)
 - [Notebook(Project_4_Code)]()
+  
+  `NRI_Table_CensusTracts file was also used in the code, but the file is too large to upload here.`
 
 ## Files Produced by Project 4 code
 - [Maine_state_tracts]()
