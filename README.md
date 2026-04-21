@@ -18,14 +18,17 @@ This project is to evaluate the risks of natural disasters. Our sensitivity anal
 ## User Guide
 
 ### 1. Program Overview
-  
+  Using both NRI’s original definitions for risk and our new proposed definitions, Risk Averse, LLC has asked our team to conduct an analysis of the risk of natural disasters in two states of our choice. The states we conducted our analysis on are Maine and Vermont. The program combines multiple datasets together, handles missing or NA values, generates two figures showing risk scoring by NRI and our definitions of risk, and generates one map using GeoPandas. 
 
 **Example:**
+This example goes through how to join multiple datasets together from the NRI database and how to handle missing or NA values in the dataset. We will be doing Maine for this example.
 
-### 2. Units
-
-
-### 3. Methods
+### 2. Methods
+1. First filter the large dataset to only contain data for the state of maine. The code will look like this: ""maine_tracts = all_tracts[all_tracts["STATE"] == "Maine"]"., then convert the filtered data to a .csv file using the ".to_csv" command.
+2. Load the NRI and SVI datasets for Maine using the "pd.read_csv" command.
+3. Merge the two datasets together using "pd.merge" and remove any duplicates.
+4. Print the data set, stitching on ".isna()" to the end of the data file name to handle the missing information.
+5. Some columns will be missing, so it is best to remove those columns. To do this, use the ".dropna" command and then print the new, filtered dataset.
 
 ---
 ## Project Goals
