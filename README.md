@@ -5,11 +5,12 @@ This project is to evaluate the risks of natural disasters. Our sensitivity anal
 ## Repository Structure
 
 ## Raw Data
-- [Maine_data]()
-- [Vermont_data]()
+- [Maine_data](Maine.csv)
+- [Vermont_data](Vermont.csv)
 - [NRI_Hazard_Info]()
 - [NRI_DataDictonary]()
 - [NRI_Metadata]()
+- [NRI_Census_Tracts]()
 - [Notebook(Project_4_Code)]()
 
 ## Files Produced by Project 4 code
